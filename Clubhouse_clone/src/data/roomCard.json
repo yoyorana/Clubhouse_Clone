@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"title": "batch 1",
+		"sub_title": "craziest",
+		"members": [
+			{
+				"first_name": "Gulshan",
+				"last_name": "Grover"
+			},
+			{
+				"first_name": "Aamir",
+				"last_name": "Khan"
+			},
+			{
+				"first_name": "Salman",
+				"last_name": "Khan"
+			},
+			{
+				"first_name": "Amitabh",
+				"last_name": "Bachchan"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Batch2",
+		"sub_title": "Super",
+		"members":[
+			{
+				"first_name": "Himanshu",
+				"last_name": "Rana"
+			},
+			{
+				"first_name": "Ram",
+				"last_name": "Singh"
+			},
+			{
+				"first_name": "Radha ",
+				"last_name": "Shyam"
+			},
+			{
+				"first_name": "Bheesm",
+				"last_name": "Pitama"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "Batch3",
+		"sub_title": "Sports",
+		"members":[{"firstname":"Rohit","lastname":"Sharma"},
+			{"firstname":"Shreyas","lastname":"Iyer"},
+		{"firstname":"Virat","lastname":"kohli"},{
+			"firstname":"Jasprit","lastname":"Bumrah"
+		}]
+	}
+]
